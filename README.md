@@ -1,3 +1,21 @@
+## Learnings:
++  Creating and Styling Components
++  Implementing Controlled Inputs
++  Using React Hooks (useState, useEffect)
++  Handling asynchronous api calls with Async/Await
++  Using API as data source
++  Working with JSON data
++  Creating and Working with CSS Modules 
+
+## Features
+- Predefined recipe homepage
+- User can search by name of foods, ice creams, drinks etc
+- Diplay the following:
+
+  + Title
+  + Recipe
+  + Image of final product
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
