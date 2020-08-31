@@ -1,3 +1,9 @@
+# recipe-finder
+Finds Recipe of Millions of foods, ice creams, drinks and more.
+
+## Live Demo
+https://talha-recipe-finder.netlify.app
+
 ## Learnings:
 +  Creating and Styling Components
 +  Implementing Controlled Inputs
