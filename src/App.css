@@ -1,0 +1,49 @@
+.App {
+  padding-top: 50px;
+  min-height: 100vh;
+  background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+}
+
+.search-form {
+  min-height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.search-bar {
+  width: 50%;
+  border: none;
+  box-shadow: 0 5px 10px navajowhite;
+  padding: 10px;
+}
+
+.search-button {
+  background: lightcoral;
+  border: none;
+  padding: 10px 20px;
+  color: white;
+  cursor: pointer;
+  transition: all 0.4s ease-in;
+}
+
+.search-button:hover {
+  color: lightcoral;
+  background: wheat;
+}
+
+.search-button:active {
+  transform: scale(0.9);
+}
+
+.recipes {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+#edamam-badge {
+  margin-top: 100px;
+  text-align: center;
+}
+
